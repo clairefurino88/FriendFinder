@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairefurino88/FriendFinder.git"
+  },
+  "author": "claire furino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairefurino88/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/clairefurino88/FriendFinder#readme"
+}
