@@ -1,14 +1,20 @@
 var friendsArray = [
     {
-        friendName: "Scarlett Johansson",
-        friendPicture: "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzkxOTI1MjYy/scarlett-johansson-13671719-1-402.jpg",
+        friendName: "Taylor Swift",
+        friendPicture: "https://www.biography.com/.image/t_share/MTM5NjgzNDM1MTk4MjkzNTEw/gettyimages-530627026jpg.jpg",
         surveyResults: [ '1', '1', '1', '1', '1', '1', '1', '1', '1', '1' ]
     },
     {
     
-        friendName: "Mila Kunis",
-        friendPicture: "http://3m3y892ngk5k1mjv4e2in6jm.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/Mila-Kunis-Desktop.png",
+        friendName: "Will Ferrell",
+        friendPicture: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTE4MDAzNDEwNzc3ODM1MDIy/will-ferrell-9542601-1-402.jpg",
         surveyResults: [ '7', '7', '7', '7', '7', '7', '7', '7', '7', '7']
+    },
+    {
+    
+        friendName: "Jimmy Fallon",
+        friendPicture: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_80%2Cw_300/MTE4MDAzNDEwNzg2ODEzNDU0/jimmy-fallon-11818465-1-402.jpg",
+        surveyResults: [ '3', '3', '3', '3', '3', '3', '3', '3', '3', '3']
     }
     ];
     
